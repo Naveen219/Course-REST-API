@@ -6,21 +6,21 @@ In this project I created Rest end points.
 
 Added full support for CRUD operations
 
-Tools used:
+## Tools used:
 
-Intellij Idea (My favoite Java editor)
+**IntelliJ IDEA (My favoite Java editor)**
 
-Modules used in the Spring:
+## Modules used in the Spring:
 
 Spring Boot, Spring Rest. Spring JPA
 
 
 
-API Testing:
+## API Testing:
 
-Postman (For API tesing)
+Postman 
 
-Database used:
+## Database used:
 
 MYSQL8
 
