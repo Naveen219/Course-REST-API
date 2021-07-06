@@ -8,7 +8,7 @@ Added full support for CRUD operations
 
 ## Tools used:
 
-**IntelliJ IDEA (My favoite Java editor)**
+**IntelliJ IDEA (My favorite Java IDE)**
 
 ## Modules used in the Spring:
 
