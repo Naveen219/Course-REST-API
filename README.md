@@ -12,7 +12,7 @@ Added full support for CRUD operations
 
 ## Modules used in the Spring:
 
-Spring Boot, Spring Rest and Spring DATA JPA
+Spring Boot, Spring REST and Spring DATA JPA
 
 
 
