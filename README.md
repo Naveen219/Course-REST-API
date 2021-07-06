@@ -1,10 +1,23 @@
 # Spring REST
 
-This is a project on Spring Rest. I created this project to test my understanding of Spring Rest. 
+This is a project on Spring REST. I created this project to test my understanding of Spring REST. 
 
-In this project I created Rest end points.
+I created a **Course REST API**.
 
 Added full support for CRUD operations
+
+The User can make the following requests from Postman:
+
+**GET**- To retrive all the courses from the Server (Retured as an of array of JSON objects)
+
+**GET/{id}** - To retrive the course having the given id
+
+**POST** - To add a course to the list (Sent as a JSON object)
+
+**PUT** - To update a course (Sent as a JSON object)
+
+**DELETE/{id}** - To delete the course having the given id
+
 
 ## Tools used:
 
