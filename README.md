@@ -4,11 +4,11 @@ This is a project on Spring REST. I created this project to test my understandin
 
 I created a **Course REST API**.
 
-Added full support for CRUD operations
+Added full support for CRUD operations.
 
-The User can make the following requests from Postman:
+The User can make the following requests from Postman :
 
-**GET**- To retrive all the courses from the Server (Retured as an of array of JSON objects)
+**GET**- To retrieve all the courses from the Server (Returned as an of array of JSON objects)
 
 **GET/{id}** - To retrive the course having the given id
 
