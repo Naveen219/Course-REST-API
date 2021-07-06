@@ -10,7 +10,7 @@ The User can make the following requests from Postman :
 
 **GET**- To retrieve all the courses from the Server (Returned as an of array of JSON objects)
 
-**GET/{id}** - To retrive the course having the given id
+**GET/{id}** - To retrieve the course having the given id
 
 **POST** - To add a course to the list (Sent as a JSON object)
 
