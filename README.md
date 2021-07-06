@@ -12,7 +12,7 @@ Added full support for CRUD operations
 
 ## Modules used in the Spring:
 
-Spring Boot, Spring Rest. Spring JPA
+Spring Boot, Spring Rest and Spring DATA JPA
 
 
 
@@ -23,4 +23,3 @@ Postman
 ## Database used:
 
 MYSQL8
-
